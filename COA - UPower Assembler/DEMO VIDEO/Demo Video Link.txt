@@ -1,0 +1,21 @@
+Link:-  https://www.youtube.com/playlist?list=PL-2dG6UFtMDTJhPRHM1XOc9QvHyQBg26q
+
+
+All the below tasks have been successfully demonstrated in the video.
+
+Demo the following for full credit:
+1. uPOWER ISA programs
+2. Assembly, Disassembly of the programs.
+3. System Initialization on Simulator startup, and after program load.
+4. Execution of the assembly programs.
+
+Partial credit - If whole assembly code cannot be demonstrated, write
+dummy code with uPOWER ISA instructions and to show capabilities of
+the
+
+Bonus:
+1. Pause at an instruction, and step-wise execution
+2. Simulator is capable of simulating (almost) all of the instructions
+from the uPOWER ISA.
+3. Show all versions of the code - v0.1 to v1.0 and beyond (as in the
+assignment video/pdf)

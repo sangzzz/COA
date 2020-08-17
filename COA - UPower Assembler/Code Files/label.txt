@@ -1,0 +1,5 @@
+2#N#.word#3 
+3#X#.word#100 23 93 
+4#Sum#.asciiz#The Sum : 
+7#loop#
+14#main#
